@@ -1,5 +1,5 @@
 <h1 align='center'>
-    MmcliSmsClient
+    MmcliSmsClient <sup>BETA</sup>
 </h1>
 
 <p align='center'>
